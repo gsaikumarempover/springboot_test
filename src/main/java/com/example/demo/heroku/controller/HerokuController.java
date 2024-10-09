@@ -5,11 +5,11 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/hello")
+@RequestMapping("/admin")
 public class HerokuController {
 	@GetMapping
     public String hello() {
-        return "Welcome to Heroku1";
+        return "Welcome ML-LOG";
     }
 
 }
