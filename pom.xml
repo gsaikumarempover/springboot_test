@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example.demo.heroku</groupId>
-	<artifactId>spring-boot-heroku-devops</artifactId>
+	<artifactId>ml-admin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-heroku-devops</name>
-	<description>Demo project for Spring Boot</description>
+	<name>ml-admin</name>
+	<description>ml-admin</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
